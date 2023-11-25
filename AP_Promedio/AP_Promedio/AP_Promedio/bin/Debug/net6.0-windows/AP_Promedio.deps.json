@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AP_Promedio/1.0.0": {
+        "dependencies": {
+          "PromerioNumeros": "1.0.0.0"
+        },
+        "runtime": {
+          "AP_Promedio.dll": {}
+        }
+      },
+      "PromerioNumeros/1.0.0.0": {
+        "runtime": {
+          "PromerioNumeros.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AP_Promedio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PromerioNumeros/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

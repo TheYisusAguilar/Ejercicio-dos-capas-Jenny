@@ -1,0 +1,28 @@
+C:\Users\pc\Documents\ADSO\Jenny\Tarea\AP_Promedio\AP_Promedio\bin\Debug\net6.0-windows\AP_Promedio.exe
+C:\Users\pc\Documents\ADSO\Jenny\Tarea\AP_Promedio\AP_Promedio\bin\Debug\net6.0-windows\AP_Promedio.deps.json
+C:\Users\pc\Documents\ADSO\Jenny\Tarea\AP_Promedio\AP_Promedio\bin\Debug\net6.0-windows\AP_Promedio.runtimeconfig.json
+C:\Users\pc\Documents\ADSO\Jenny\Tarea\AP_Promedio\AP_Promedio\bin\Debug\net6.0-windows\AP_Promedio.dll
+C:\Users\pc\Documents\ADSO\Jenny\Tarea\AP_Promedio\AP_Promedio\bin\Debug\net6.0-windows\AP_Promedio.pdb
+C:\Users\pc\Documents\ADSO\Jenny\Tarea\AP_Promedio\AP_Promedio\bin\Debug\net6.0-windows\PromerioNumeros.dll
+C:\Users\pc\Documents\ADSO\Jenny\Tarea\AP_Promedio\AP_Promedio\bin\Debug\net6.0-windows\PromerioNumeros.pdb
+C:\Users\pc\Documents\ADSO\Jenny\Tarea\AP_Promedio\AP_Promedio\obj\Debug\net6.0-windows\AP_Promedio.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\ADSO\Jenny\Tarea\AP_Promedio\AP_Promedio\obj\Debug\net6.0-windows\AP_Promedio.promedio.resources
+C:\Users\pc\Documents\ADSO\Jenny\Tarea\AP_Promedio\AP_Promedio\obj\Debug\net6.0-windows\AP_Promedio.Properties.Resources.resources
+C:\Users\pc\Documents\ADSO\Jenny\Tarea\AP_Promedio\AP_Promedio\obj\Debug\net6.0-windows\AP_Promedio.csproj.GenerateResource.cache
+C:\Users\pc\Documents\ADSO\Jenny\Tarea\AP_Promedio\AP_Promedio\obj\Debug\net6.0-windows\AP_Promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Documents\ADSO\Jenny\Tarea\AP_Promedio\AP_Promedio\obj\Debug\net6.0-windows\AP_Promedio.AssemblyInfoInputs.cache
+C:\Users\pc\Documents\ADSO\Jenny\Tarea\AP_Promedio\AP_Promedio\obj\Debug\net6.0-windows\AP_Promedio.AssemblyInfo.cs
+C:\Users\pc\Documents\ADSO\Jenny\Tarea\AP_Promedio\AP_Promedio\obj\Debug\net6.0-windows\AP_Promedio.csproj.CoreCompileInputs.cache
+C:\Users\pc\Documents\ADSO\Jenny\Tarea\AP_Promedio\AP_Promedio\obj\Debug\net6.0-windows\AP_Promedio.csproj.CopyComplete
+C:\Users\pc\Documents\ADSO\Jenny\Tarea\AP_Promedio\AP_Promedio\obj\Debug\net6.0-windows\AP_Promedio.dll
+C:\Users\pc\Documents\ADSO\Jenny\Tarea\AP_Promedio\AP_Promedio\obj\Debug\net6.0-windows\refint\AP_Promedio.dll
+C:\Users\pc\Documents\ADSO\Jenny\Tarea\AP_Promedio\AP_Promedio\obj\Debug\net6.0-windows\AP_Promedio.pdb
+C:\Users\pc\Documents\ADSO\Jenny\Tarea\AP_Promedio\AP_Promedio\obj\Debug\net6.0-windows\AP_Promedio.genruntimeconfig.cache
+C:\Users\pc\Documents\ADSO\Jenny\Tarea\AP_Promedio\AP_Promedio\obj\Debug\net6.0-windows\ref\AP_Promedio.dll
+C:\Users\Jesus Aguilar\OneDrive\Escritorio\Evidencias\Jenny Vazquez\AP_Promedio\AP_Promedio\AP_Promedio\obj\Debug\net6.0-windows\AP_Promedio.promedio.resources
+C:\Users\Jesus Aguilar\OneDrive\Escritorio\Evidencias\Jenny Vazquez\AP_Promedio\AP_Promedio\AP_Promedio\obj\Debug\net6.0-windows\AP_Promedio.Properties.Resources.resources
+C:\Users\Jesus Aguilar\OneDrive\Escritorio\Evidencias\Jenny Vazquez\AP_Promedio\AP_Promedio\AP_Promedio\obj\Debug\net6.0-windows\AP_Promedio.csproj.GenerateResource.cache
+C:\Users\Jesus Aguilar\OneDrive\Escritorio\Evidencias\Jenny Vazquez\AP_Promedio\AP_Promedio\AP_Promedio\obj\Debug\net6.0-windows\AP_Promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesus Aguilar\OneDrive\Escritorio\Evidencias\Jenny Vazquez\AP_Promedio\AP_Promedio\AP_Promedio\obj\Debug\net6.0-windows\AP_Promedio.AssemblyInfoInputs.cache
+C:\Users\Jesus Aguilar\OneDrive\Escritorio\Evidencias\Jenny Vazquez\AP_Promedio\AP_Promedio\AP_Promedio\obj\Debug\net6.0-windows\AP_Promedio.AssemblyInfo.cs
+C:\Users\Jesus Aguilar\OneDrive\Escritorio\Evidencias\Jenny Vazquez\AP_Promedio\AP_Promedio\AP_Promedio\obj\Debug\net6.0-windows\AP_Promedio.csproj.CoreCompileInputs.cache

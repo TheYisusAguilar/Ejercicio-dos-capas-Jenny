@@ -1,0 +1,7 @@
+C:\Users\Jesus Aguilar\OneDrive\Escritorio\Evidencias\Jenny Vazquez\AP_Promedio\AP_Promedio\AP_Promedio\obj\Release\net6.0-windows\AP_Promedio.promedio.resources
+C:\Users\Jesus Aguilar\OneDrive\Escritorio\Evidencias\Jenny Vazquez\AP_Promedio\AP_Promedio\AP_Promedio\obj\Release\net6.0-windows\AP_Promedio.Properties.Resources.resources
+C:\Users\Jesus Aguilar\OneDrive\Escritorio\Evidencias\Jenny Vazquez\AP_Promedio\AP_Promedio\AP_Promedio\obj\Release\net6.0-windows\AP_Promedio.csproj.GenerateResource.cache
+C:\Users\Jesus Aguilar\OneDrive\Escritorio\Evidencias\Jenny Vazquez\AP_Promedio\AP_Promedio\AP_Promedio\obj\Release\net6.0-windows\AP_Promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jesus Aguilar\OneDrive\Escritorio\Evidencias\Jenny Vazquez\AP_Promedio\AP_Promedio\AP_Promedio\obj\Release\net6.0-windows\AP_Promedio.AssemblyInfoInputs.cache
+C:\Users\Jesus Aguilar\OneDrive\Escritorio\Evidencias\Jenny Vazquez\AP_Promedio\AP_Promedio\AP_Promedio\obj\Release\net6.0-windows\AP_Promedio.AssemblyInfo.cs
+C:\Users\Jesus Aguilar\OneDrive\Escritorio\Evidencias\Jenny Vazquez\AP_Promedio\AP_Promedio\AP_Promedio\obj\Release\net6.0-windows\AP_Promedio.csproj.CoreCompileInputs.cache
